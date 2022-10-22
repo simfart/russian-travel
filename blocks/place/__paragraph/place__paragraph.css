@@ -8,22 +8,22 @@
    margin: 0;
 }
 @media screen and (max-width: 1124px){
-    .place__paragraph{       
+    .place__paragraph{
         margin-bottom: 27px;
     }
 } 
 
 @media screen and (max-width: 984px){
-    .place__paragraph{        
+    .place__paragraph{
         font-size: 16px;
         line-height: 26px;
-        margin-bottom: 25px;      
+        margin-bottom: 25px;
     }
 }
 
 @media screen and (max-width: 586px){
     .place__paragraph{
-        padding: 0 16px;         
+        padding: 0 16px;
         line-height: 26px;
     } 
 }

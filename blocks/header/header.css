@@ -1,0 +1,22 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/font.css');
+
+.header{            
+    padding: 0 48px;   
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;  
+    box-sizing: border-box;    
+}
+
+@media screen and (max-width: 984px){
+    .header{
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .header{
+        padding: 0 16px;
+    }
+}

@@ -1,0 +1,25 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/font.css');
+
+
+.page__content{
+    margin: 56px 48px 92px;
+}
+
+@media screen and (max-width: 1124px){
+    .page__content{
+        margin: 48px 0 92px;
+    }
+}
+
+@media screen and (max-width: 984px){
+    .page__content{
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .page__content{
+        margin-bottom: 64px;
+    }
+}

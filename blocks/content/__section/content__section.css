@@ -1,0 +1,19 @@
+.content__section{
+    margin-top: 92px;
+}
+
+.content__section:first-of-type{
+    margin-top: 0;
+}
+
+@media screen and (max-width: 984px){
+    .content__section{
+        margin-top: 88px;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .content__section{
+        margin-top: 64px;
+    }
+}

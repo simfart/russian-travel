@@ -1,0 +1,21 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/font.css');
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 48px;
+}
+
+@media screen and (max-width: 984px){
+    .footer{
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 586px){
+    .footer{
+        flex-direction: column;
+        padding: 0 16px;
+    }
+}

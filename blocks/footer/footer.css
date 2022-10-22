@@ -1,6 +1,3 @@
-@import url('../vendor/normalize.css');
-@import url('../vendor/fonts/font.css');
-
 .footer{
     display: flex;
     justify-content: space-between;

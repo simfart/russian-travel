@@ -1,4 +1,5 @@
 # Путешествия по России
+https://simfart.github.io/russian-travel/
 ## <a  href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0">Макет</a>
 
 
@@ -13,4 +14,6 @@
 - *Функция calc()*
 - *Оптимизированные шрифты*
 - *Медиазапросы*
+
+
 
